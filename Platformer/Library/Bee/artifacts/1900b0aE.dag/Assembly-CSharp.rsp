@@ -372,6 +372,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Versions Unity/Unity 2022.3.50f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Versions Unity/Unity 2022.3.50f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/EnemyMove.cs"
 "Assets/PlayerController.cs"
 "Assets/Trap.cs"
 -langversion:9.0
